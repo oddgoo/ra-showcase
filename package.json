@@ -1,0 +1,22 @@
+{
+  "name": "ra-showcase",
+  "version": "0.0.1",
+  "description": "Retroachievements Showcase Experiments",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddgoo/ra-showcase.git"
+  },
+  "keywords": [
+    "retroachievements"
+  ],
+  "author": "oddgoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oddgoo/ra-showcase/issues"
+  },
+  "homepage": "https://github.com/oddgoo/ra-showcase#readme"
+}
