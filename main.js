@@ -1,7 +1,7 @@
 function alpineInstance() {
     return {
-        user: 'oddgoo',
-        apiKey: 'sByjqJwYXk0LDgiECPEOWmN14fvMG3r0',
+        user: '',
+        apiKey: '',
         title: 'RetroAchievements Showcase',
         intro: 'Description will go here',
         games: [],
